@@ -1,0 +1,34 @@
+{
+ "region": "경기 용인시 처인구 모현읍",
+ "nameEn": "Hankuk University of Foreign Studies Global Campus",
+ "added": "2026-10-17",
+ "rank": 80,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "ICTPOLY",
+   "campus": "ICT폴리텍대학",
+   "km": 6.9
+  },
+  {
+   "code": "SJU",
+   "campus": "서울장신대학교",
+   "km": 8.3
+  },
+  {
+   "code": "KTC",
+   "campus": "한국관광대학교",
+   "km": 11.6
+  },
+  {
+   "code": "TONGWON",
+   "campus": "동원대학교",
+   "km": 12.0
+  },
+  {
+   "code": "DANKOOK",
+   "campus": "단국대학교 죽전캠퍼스",
+   "km": 12.3
+  }
+ ]
+}
